@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -11,3 +12,10 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 .env
+=======
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+>>>>>>> acc8b8e24a6358d7ed63b2d4b8af7a7aaa3556be
